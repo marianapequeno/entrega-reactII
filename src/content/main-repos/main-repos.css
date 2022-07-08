@@ -1,0 +1,30 @@
+.container-main-repos{
+  background-color: #7e459b;
+  padding: 30px 5px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
+
+.cards{
+  background-color: #ffffff;
+  /* border: 2px solid black; */
+  border-radius: 10px;
+  padding: 20px;
+  flex: 0 1 600px;
+  display: grid;
+}
+
+.imgs-main-repos{
+  border-radius: 15px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: block;
+}
+
+.cards p{
+  margin: 20px 0;
+  text-align: center;
+}
