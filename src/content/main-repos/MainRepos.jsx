@@ -6,7 +6,7 @@ function MainRepos() {
   //id, nome, descrição, conteúdo aprendido, imagem e link
   //https://api.github.com/users/marianapequeno/repos
   //"entrega-reactI", "series-protagonizadas-por-mulheres-trans", "mdemaravilhosa", "projetotodolist"
-  console.log(mainRepos)
+  // console.log(mainRepos)
   return(
     <>
       <h2 className="title-2">4 Repositórios feitos na Reprograma</h2>
